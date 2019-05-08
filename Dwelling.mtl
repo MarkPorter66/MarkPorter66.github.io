@@ -1,0 +1,252 @@
+﻿
+newmtl R0,G0,B0
+Kd 0 0 0 
+Ka 0 0 0 
+Ks 0 0 0 
+d 1
+
+newmtl R127,G127,B127
+Kd 0.498039 0.498039 0.498039 
+Ka 0 0 0 
+Ks 0 0 0 
+d 1
+
+newmtl R0,G0,B0
+Kd 0 0 0 
+Ka 0 0 0 
+Ks 0 0 0 
+d 1
+
+newmtl R255,G0,B0
+Kd 1 0 0 
+Ka 0 0 0 
+Ks 0 0 0 
+d 1
+
+newmtl R255,G255,B255
+Kd 1 1 1 
+Ka 0 0 0 
+Ks 0 0 0 
+d 1
+
+newmtl R178,G191,B178
+Kd 0.698039 0.74902 0.698039 
+Ka 0 0 0 
+Ks 0 0 0 
+d 1
+
+newmtl R197,G197,B197
+Kd 0.772549 0.772549 0.772549 
+Ka 0 0 0 
+Ks 0 0 0 
+d 1
+
+newmtl R120,G120,B120
+Kd 0.470588 0.470588 0.470588 
+Ka 0 0 0 
+Ks 0 0 0 
+d 1
+
+newmtl R152,G148,B147
+Kd 0.596078 0.580392 0.576471 
+Ka 0 0 0 
+Ks 0 0 0 
+d 1
+
+newmtl R153,G151,B149
+Kd 0.6 0.592157 0.584314 
+Ka 0 0 0 
+Ks 0 0 0 
+d 1
+
+newmtl R0,G128,B192
+Kd 0 0.501961 0.752941 
+Ka 0 0 0 
+Ks 0 0 0 
+d 0.25098
+
+newmtl R192,G192,B192
+Kd 0.752941 0.752941 0.752941 
+Ka 0 0 0 
+Ks 0 0 0 
+d 1
+
+newmtl Woods & Plastics.Finish Carpentry.Wood.Pine.png
+Kd 1 1 1 
+Ka 0.5 0.5 0.5 
+Ks 0 0 0 
+d 1
+map_Kd C:\Users\atingle\AppData\Roaming\SimLab\SimLab OBJ From Revit 2019\data\Imported_Textures\5\DWF\SimLabDWFFile\Woods & Plastics.Finish Carpentry.Wood.Pine.png
+
+newmtl R0,G0,B2551
+Kd 0 0 1 
+Ka 0 0 0 
+Ks 0 0 0 
+d 0.25098
+
+newmtl Woods & Plastics.Finish Carpentry.Wood.Mahogany.png
+Kd 1 1 1 
+Ka 0.5 0.5 0.5 
+Ks 0 0 0 
+d 1
+map_Kd C:\Users\atingle\AppData\Roaming\SimLab\SimLab OBJ From Revit 2019\data\Imported_Textures\5\DWF\SimLabDWFFile\Woods & Plastics.Finish Carpentry.Wood.Mahogany.png
+
+newmtl R0,G0,B255
+Kd 0 0 1 
+Ka 0 0 0 
+Ks 0 0 0 
+d 1
+
+newmtl R0,G255,B0
+Kd 0 1 0 
+Ka 0 0 0 
+Ks 0 0 0 
+d 1
+
+newmtl R0,G255,B255
+Kd 0 1 1 
+Ka 0 0 0 
+Ks 0 0 0 
+d 1
+
+newmtl R189,G187,B185
+Kd 0.741176 0.733333 0.72549 
+Ka 0 0 0 
+Ks 0 0 0 
+d 1
+
+newmtl Metals.Ornamental Metals.Copper.jpeg
+Kd 1 1 1 
+Ka 0.5 0.5 0.5 
+Ks 0 0 0 
+d 1
+map_Kd C:\Users\atingle\AppData\Roaming\SimLab\SimLab OBJ From Revit 2019\data\Imported_Textures\5\DWF\SimLabDWFFile\Metals.Ornamental Metals.Copper.jpeg
+
+newmtl R255,G255,B0
+Kd 1 1 0 
+Ka 0 0 0 
+Ks 0 0 0 
+d 1
+
+newmtl R128,G64,B0
+Kd 0.501961 0.25098 0 
+Ka 0 0 0 
+Ks 0 0 0 
+d 1
+
+newmtl R128,G128,B128
+Kd 0.501961 0.501961 0.501961 
+Ka 0 0 0 
+Ks 0 0 0 
+d 1
+
+newmtl sitework.planting.gravel.mixed.png
+Kd 1 1 1 
+Ka 0.5 0.5 0.5 
+Ks 0 0 0 
+d 1
+map_Kd C:\Users\atingle\AppData\Roaming\SimLab\SimLab OBJ From Revit 2019\data\Imported_Textures\5\DWF\SimLabDWFFile\sitework.planting.gravel.mixed.png
+
+newmtl R122,G112,B97
+Kd 0.478431 0.439216 0.380392 
+Ka 0 0 0 
+Ks 0 0 0 
+d 1
+
+newmtl Sitework.Planting.Grass.Thick.png
+Kd 1 1 1 
+Ka 0.5 0.5 0.5 
+Ks 0 0 0 
+d 1
+map_Kd C:\Users\atingle\AppData\Roaming\SimLab\SimLab OBJ From Revit 2019\data\Imported_Textures\5\DWF\SimLabDWFFile\Sitework.Planting.Grass.Thick.png
+
+newmtl R249,G249,B249
+Kd 0.976471 0.976471 0.976471 
+Ka 0 0 0 
+Ks 0 0 0 
+d 1
+
+newmtl R247,G247,B247
+Kd 0.968628 0.968628 0.968628 
+Ka 0 0 0 
+Ks 0 0 0 
+d 1
+
+newmtl Concrete.Precast Structural Concrete.Smooth.jpeg
+Kd 1 1 1 
+Ka 0.5 0.5 0.5 
+Ks 0 0 0 
+d 1
+map_Kd C:\Users\atingle\AppData\Roaming\SimLab\SimLab OBJ From Revit 2019\data\Imported_Textures\5\DWF\SimLabDWFFile\Concrete.Precast Structural Concrete.Smooth.jpeg
+
+newmtl Finishes.Painting.Paint.jpeg
+Kd 1 1 1 
+Ka 0.5 0.5 0.5 
+Ks 0 0 0 
+d 1
+map_Kd C:\Users\atingle\AppData\Roaming\SimLab\SimLab OBJ From Revit 2019\data\Imported_Textures\5\DWF\SimLabDWFFile\Finishes.Painting.Paint.jpeg
+
+newmtl R200,G200,B199
+Kd 0.784314 0.784314 0.780392 
+Ka 0 0 0 
+Ks 0 0 0 
+d 1
+
+newmtl finishes.gypsum board.painted.white.jpeg
+Kd 1 1 1 
+Ka 0.5 0.5 0.5 
+Ks 0 0 0 
+d 1
+map_Kd C:\Users\atingle\AppData\Roaming\SimLab\SimLab OBJ From Revit 2019\data\Imported_Textures\5\DWF\SimLabDWFFile\finishes.gypsum board.painted.white.jpeg
+
+newmtl slate.roof.grey.png
+Kd 1 1 1 
+Ka 0.5 0.5 0.5 
+Ks 0 0 0 
+d 1
+map_Kd C:\Users\atingle\AppData\Roaming\SimLab\SimLab OBJ From Revit 2019\data\Imported_Textures\5\DWF\SimLabDWFFile\slate.roof.grey.png
+
+newmtl Cumbrian_stone_wall.jpeg
+Kd 1 1 1 
+Ka 0.5 0.5 0.5 
+Ks 0 0 0 
+d 1
+map_Kd C:\Users\atingle\AppData\Roaming\SimLab\SimLab OBJ From Revit 2019\data\Imported_Textures\5\DWF\SimLabDWFFile\Cumbrian_stone_wall.jpeg
+
+newmtl R164,G164,B164
+Kd 0.643137 0.643137 0.643137 
+Ka 0 0 0 
+Ks 0 0 0 
+d 1
+
+newmtl Cedar Cladding.jpeg
+Kd 1 1 1 
+Ka 0.5 0.5 0.5 
+Ks 0 0 0 
+d 1
+map_Kd C:\Users\atingle\AppData\Roaming\SimLab\SimLab OBJ From Revit 2019\data\Imported_Textures\5\DWF\SimLabDWFFile\Cedar Cladding.jpeg
+
+newmtl R79,G82,B80
+Kd 0.309804 0.321569 0.313726 
+Ka 0 0 0 
+Ks 0 0 0 
+d 1
+
+newmtl steelplt.png
+Kd 1 1 1 
+Ka 0.5 0.5 0.5 
+Ks 0 0 0 
+d 1
+map_Kd C:\Users\atingle\AppData\Roaming\SimLab\SimLab OBJ From Revit 2019\data\Imported_Textures\5\DWF\SimLabDWFFile\steelplt.png
+
+newmtl R255,G128,B64
+Kd 1 0.501961 0.25098 
+Ka 0 0 0 
+Ks 0 0 0 
+d 1
+
+newmtl R0,G59,B189
+Kd 0 0.231373 0.741176 
+Ka 0 0 0 
+Ks 0 0 0 
+d 1
