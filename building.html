@@ -11,15 +11,15 @@
 
 <body style=’margin : 0px; overflow: hidden;’>
   <a-scene embedded arjs=’sourceType: webcam;’>
-      <a-marker preset='hiro'>
+
       
       <a-assets>
         <a-asset-item id="#ship-obj" src="17_obj.obj"></a-asset-item>
         <a-asset-item id="#ship-mtl" src="17_obj.mtl"></a-asset-item>
       </a-assets>
-
-       <a-obj-model src="#ship-obj" mtl="#ship-mtl"></a-obj-model>
     
+      <a-marker preset='hiro'>
+       <a-obj-model src="#ship-obj" mtl="#ship-mtl"></a-obj-model>
       </a-marker>
   <a-entity camera>
   </a-entity>
